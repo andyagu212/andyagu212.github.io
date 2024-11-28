@@ -1,0 +1,8 @@
+.background1{
+    background-image: url(img/Background.jpg);
+    min-height: 100vh;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
